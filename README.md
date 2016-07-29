@@ -28,7 +28,7 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 
 ### Markdown Online Editors
 
-**Minimalist Online Markdown Editor**
+**Minimalist Online Markdown Editor** :octocat:
 (web: [`markdown.pioul.fr`](http://markdown.pioul.fr),
  github: [`pioul/Minimalist-Online-Markdown-Editor`](https://github.com/pioul/Minimalist-Online-Markdown-Editor))
 
@@ -36,7 +36,7 @@ _Zen Writing - leaving you alone with your thoughts and your words_
 (web: [`stackedit.io`](https://stackedit.io),
  github: [`benweet/stackedit`](https://github.com/benweet/stackedit))
 
-**Markdown Note**
+**Markdown Note** :octocat:
 (web: [`writekit.github.io/markdown.note/note.html`](http://writekit.github.io/markdown.note/note.html),
  github: [`writekit/markdown.note`](https://github.com/writekit/markdown.note)) -
 another simple single HTML page, server-less Markdown editor in JavaScript
@@ -59,7 +59,7 @@ to be done
 
 #### Linux
 
-**Retext**
+**Retext** :octocat:
 (github wiki: [`retext-project/retext`](https://github.com/retext-project/retext/wiki),
  github: [`retext-project/retext`](https://github.com/retext-project/retext)) -
 ReText is a simple but powerful editor for markdown and reStructuredText markup languages.
@@ -84,11 +84,13 @@ With UberWriter you get only one thing: An empty textbox, that is to fill with y
 There are no settings, you don't have to choose a font, it is only for writing.
 You can use markdown for all your markup needs. PDF, RTF and HTML are generated via pandoc.
 
-**MarkMyWords**
+**MarkMyWords** :octocat:
 (github: [`voldyman/MarkMyWords`](http://github.com/voldyman/MarkMyWords)) -
 a minimal markdown editor
 
-
+**ghostwriter** :octocat:
+(github: [`wereturtle/ghostwriter`](https://github.com/wereturtle/ghostwriter)) -
+ghostwriter is a Linux and Windows Markdown editor and provides a relaxing, distraction-free writing environment with many features.
 
 #### Microsoft Windows
 
@@ -97,6 +99,8 @@ a minimal markdown editor
 full screen distraction free creative writing; no whistles and bells, just empty screen, you and your words;
 WriteMonkey is light, fast, and free
 
+**ghostwriter** :octocat:
+(github: [`wereturtle/ghostwriter`](https://github.com/wereturtle/ghostwriter))
 
 #### Apple Mac OS X
 
